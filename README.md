@@ -57,7 +57,7 @@ your WordPress site.
     - There are numerous templates that are available under BetterDocs which would help your website look prettier with minimal effort. 
 
 - Pro Version of BetterDocs
-    - Pro Version of Better Docs provides you with a Chat-bot live service where use FAQ’s can be answered instantly.
+    - Pro Version of Better Docs provides you with a Chat-bot live service where user FAQ’s can be answered instantly.
     - Allows you to implement multiple Knowledge Base plugins.
     - Provides features like advanced specific search.
 
